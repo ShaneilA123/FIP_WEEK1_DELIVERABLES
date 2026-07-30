@@ -16,8 +16,8 @@ A simple Python Tic-Tac-Toe game where the user plays against the computer. The 
 3. Matplotlib Exercises
 
 Using the company sales data, the following exercises were completed:
-Exercise 1:** Displayed the total profit of all months using a line plot.
-Exercise 2:** Displayed the sales data for bathing soap and facewash using subplots.
+Exercise 1: Displayed the total profit of all months using a line plot.
+Exercise 2: Displayed the sales data for bathing soap and facewash using subplots.
 
 Files
 
